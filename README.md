@@ -2,7 +2,7 @@
 ---
 ## :white_circle: Project Description:
 
-### [www.grandpaskitchen.com](url) is a responsive food delivary website. The objective of the project is to create fully responsive website project using HTML and CSS
+### [www.grandpaskitchen.com](url) is a responsive food delivery website. The objective of the project is to create fully responsive website project using HTML and CSS
 ---
 ## :white_circle: Web-Techonology Used:
 * **HTML5**
