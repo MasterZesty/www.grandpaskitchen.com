@@ -12,3 +12,9 @@
 
 ---
 ## :white_circle: Snapshots:
+
+* DESKTOP VERSION
+![DESKTOP VERSION](/img/desktop.png)
+
+* MOBILE VERSION
+![MOBILE VERSION](/img/mobile.png)
